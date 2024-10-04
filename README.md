@@ -1,6 +1,5 @@
-# CS3090_block2_project
+# CS3090_block2_project(Tetris Game)
 The University of Utah CS3090 block 2 project
-# Grid-Based Block Game
 
 ## Overview
 This is a grid-based block game developed in C++. The goal is to control falling blocks, and clear lines, and prevent the blocks from stacking up to the top of the screen. The game features real-time control of block speed and introduces challenges like rising ground level. Score and combo mechanics reward players for clearing consecutive lines without missing. The game ends when no more blocks can be placed.
